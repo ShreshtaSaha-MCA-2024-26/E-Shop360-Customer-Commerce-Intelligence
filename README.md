@@ -1,7 +1,4 @@
-# 📊 E-commerce Customer Analytics Dashboard
-
-<img width="1136" height="637" alt="image" src="https://github.com/user-attachments/assets/6576f7ab-0eaf-4eb1-a084-7c079530dd74" />
-
+# 📊 E-Shop360 - Customer & Commerce Intelligence
 
 An end-to-end *Power BI Business Intelligence project* built using the *Brazilian E-commerce (Olist) Dataset*. This dashboard transforms raw transactional data into actionable business insights by analyzing customer behavior, sales performance, payment trends, and delivery efficiency.
 
@@ -40,12 +37,8 @@ The dashboard eliminates manual reporting and provides instant access to key bus
 ---
 
 ## 📸 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here
-
-text
-readme_assets/dashboard-preview.png
-
+📊 E-commerce Customer Analytics Dashboard
+<img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/9d0f9b89-04cb-48cb-8696-60a53d370a00" />
 
 ---
 
